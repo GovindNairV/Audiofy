@@ -1,0 +1,3 @@
+#Audiofy
+
+Audiofy is an application that i am creating as a light novel and web novel enthusiast. There are many like me who are addicted to them and spend huge amounts of time reading them. But in my observation, when i listen to an audiobook along with reading, i can significantly increase my reading speed and reduce the time i waste. But unfortunately not all LN or WN have audiobooks yet. Hence i am creating a platform where i can integrate all the thing that i have to do using multiple softwares to read my fav books and integrating them into a single project.
